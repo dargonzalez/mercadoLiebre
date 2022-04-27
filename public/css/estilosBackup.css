@@ -1,0 +1,73 @@
+/*
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+*/
+
+header {
+    background-color: #EAC926;
+}
+
+main {
+    background-color: #EAC926;
+    width: 90vw;
+
+}
+
+.articulo {
+    margin: 10px;
+}
+
+body {
+    font-family: Roboto;
+    font-size: 12px;
+    background-color: rgb(245, 245, 245)
+}
+
+p.busqueda {
+    font-size: 16px;
+    color: #666;
+    background:white;
+    border: 1px solid black; 
+    margin: 0;
+}
+
+p.compracredito {
+    background: #EAC926;
+    margin: 0;
+}
+
+
+h3.titulares {
+    font-size: 24px;
+}
+
+p.precios {
+    font-size: 18px;
+}
+
+p.descuentos {
+    font-size: 16px;
+}
+
+p.descripciones {
+    font-size: 16px;
+}
+
+footer {
+    background-color: #ebebeb;
+}
+
+div.burger-menu {
+    background-color: rgb(245, 245, 245)
+}
+
+/*
+.articulo{
+    display: flex;
+    
+}
+*/
+
